@@ -1,7 +1,6 @@
-# Scorpius Labs site
+# Echolume legal pages
 
-Legal pages for Scorpius Labs apps, served by GitHub Pages at https://beingshaban79.github.io/
+Privacy policy and terms of use for Echolume: Sonar Maze by Scorpius Labs, served by GitHub Pages:
 
-- Echolume privacy policy: /echolume/privacy.html
-- Echolume terms of use: /echolume/terms.html
-- AdMob app-ads.txt: /app-ads.txt
+- https://scorpiussoftsolutions.github.io/echolume-legal/privacy.html
+- https://scorpiussoftsolutions.github.io/echolume-legal/terms.html
